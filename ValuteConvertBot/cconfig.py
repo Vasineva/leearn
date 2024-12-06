@@ -1,4 +1,4 @@
-TOKEN = 'Введите свой токен'
+TOKEN = '7773434731:AAHffwX4HSmrnoU9cjizVzZTeHALwxSfWuA'
 
 keys = {
     'рубль': 'RUB',
